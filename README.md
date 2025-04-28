@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rahulcodingmaster12/Rahulcodingmaster12/main/assets/banner.png" alt="Rahulcodingmaster12 Banner" />
+  <img src="https://raw.githubusercontent.com/Rahulcodingmaster12/Rahulcodingmaster12/main/banner.png" alt="Rahulcodingmaster12 Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Chouhan</h1>
