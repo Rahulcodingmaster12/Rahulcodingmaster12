@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rahulcodingmaster12/Rahulcodingmaster12/main/banner.png" alt="Rahulcodingmaster12 Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rahul Chouhan</h1>
 <h3 align="center">Node.js Backend Developer | REST APIs | MongoDB | MySQL | Real-time Systems 🚀</h3>
